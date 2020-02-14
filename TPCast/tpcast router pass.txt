@@ -1,0 +1,5 @@
+Connecting To The TPCast Router
+The TPCast router control panel can be accessed from http://192.168.144.1 (CE) or http://192.168.1.1 (PRE) using a web browser and the following credentials:
+
+Username: tproot (if prompted)
+Password: 8427531 (CE) 192.168.144.1; or 12345678 (PRE) 192.168.1.1;
